@@ -17,8 +17,8 @@ The projects page could be styled a bit more cleanly and also should be updated 
 ----
 
 # Project Link
-[Portfolio](https://spenrad.github.io/Portfolio/) <br>
-[Portfolio Repository](https://github.com/spenrad/Portfolio) <br>
+[Portfolio](https://spenrad.github.io/React-Portfolio/) <br>
+[Portfolio Repository](https://github.com/spenrad/react-portfolio) <br>
 
 ----
 
