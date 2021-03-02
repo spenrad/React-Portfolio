@@ -1,11 +1,13 @@
 a, span {
-    color: #e9b872
+    color: #e9b872;
+    text-decoration: none;
 }
 
 .navbar {
     position: absolute;
     top: 0;
     background-color: #151515;
+    width: 100%
 }
 
 

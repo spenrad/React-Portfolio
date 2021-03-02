@@ -1,0 +1,50 @@
+[
+    {
+        "id" : 1,
+        "title" : "Clicky Game" ,
+        "image" : "./assets/monkeygame.jpg",
+        "ghLink" : "https://github.com/spenrad/Clicky-Game",
+        "deployedLink" : "https://spenrad.github.io/Clicky-Game/" 
+
+    },
+    {
+        "id" : 2,
+        "title" : "Underrated",
+        "image" : "./assets/underrated.jpg",
+        "ghLink" : "https://github.com/spenrad/Underrated",
+        "deployedLink" : "https://underrated-moviedb.herokuapp.com/"
+
+    },
+    {
+        "id" : 3,
+        "title" : "Project Tantalus",
+        "image" : "./assets/tantalus.jpg",
+        "ghLink" : "https://github.com/spenrad/Project-Tantalus",
+        "deployedLink" : "https://spenrad.github.io/Project-Tantalus/"
+
+    },
+    {
+        "id" : 4,
+        "title" : "Note Taker",
+        "image" : "./assets/notetaker.jpg",
+        "ghLink" : "https://github.com/spenrad/Note-Taker",
+        "deployedLink" : "https://powerful-basin-39930.herokuapp.com/"
+
+    },
+    {
+        "id" : 5,
+        "title" : "Team Profile Generator",
+        "image" : "./assets/teamprofile.jpg",
+        "ghLink" : "https://github.com/spenrad/Team-Profile-Generator",
+        "deployedLink" : "https://drive.google.com/file/d/1XeDnpPDt20iImqUwwxM3uEc1BWUT8YgN/view"
+
+    },
+    {
+        "id" : 6,
+        "title" : "Daily Planner",
+        "image" : "./assets/planner.jpg",
+        "ghLink" : "https://github.com/spenrad/Daily-Planner",
+        "deployedLink" : "https://spenrad.github.io/Daily-Planner/"
+
+    }
+]

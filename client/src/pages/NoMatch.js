@@ -2,7 +2,7 @@ import React from "react";
 
 function NoMatch() {
   return (
-    <div className="container">
+    <div className="noPage">
             <h1>no such page exists
                <span role="img" aria-label="ghost emoji">
                👻
