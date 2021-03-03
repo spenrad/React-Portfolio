@@ -10,7 +10,7 @@ function Home() {
               <img
                 src="./assets/projectimg.jpg"
                 className="cardImg"
-                alt="project card image"
+                alt="project card"
               />
               <div className="card-body">
                 <p className="card-text">projects that I'm proud of.</p>
@@ -24,7 +24,7 @@ function Home() {
               <img
                 src="./assets/resume.jpg"
                 className="cardImg"
-                alt="resume card image"
+                alt="resume card"
               />
               <div className="card-body">
                 <p className="card-text">
