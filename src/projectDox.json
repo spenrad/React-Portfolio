@@ -9,6 +9,21 @@
     },
     {
         "id" : 2,
+        "title" : "Google Books React-App",
+        "image" : "./assets/googlebooksreact.jpg",
+        "ghLink" : "https://github.com/spenrad/React-Google-Books",
+        "deployedLink" : "https://react-googlebooksapi-search.herokuapp.com/"
+
+    },{
+        "id" : 3,
+        "title" : "Employee Directory",
+        "image" : "./assets/employeedir.jpg",
+        "ghLink" : "https://github.com/spenrad/Employee-Directory",
+        "deployedLink" : "https://spenrad.github.io/Employee-Directory/"
+
+    },
+    {
+        "id" : 4,
         "title" : "Underrated",
         "image" : "./assets/underrated.jpg",
         "ghLink" : "https://github.com/spenrad/Underrated",
@@ -16,7 +31,7 @@
 
     },
     {
-        "id" : 3,
+        "id" : 5,
         "title" : "Project Tantalus",
         "image" : "./assets/tantalus.jpg",
         "ghLink" : "https://github.com/spenrad/Project-Tantalus",
@@ -24,7 +39,7 @@
 
     },
     {
-        "id" : 4,
+        "id" : 6,
         "title" : "Note Taker",
         "image" : "./assets/notetaker.jpg",
         "ghLink" : "https://github.com/spenrad/Note-Taker",
@@ -32,7 +47,7 @@
 
     },
     {
-        "id" : 5,
+        "id" : 7,
         "title" : "Team Profile Generator",
         "image" : "./assets/teamprofile.jpg",
         "ghLink" : "https://github.com/spenrad/Team-Profile-Generator",
@@ -40,7 +55,7 @@
 
     },
     {
-        "id" : 6,
+        "id" : 8,
         "title" : "Daily Planner",
         "image" : "./assets/planner.jpg",
         "ghLink" : "https://github.com/spenrad/Daily-Planner",
